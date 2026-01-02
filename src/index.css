@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Teko:wght@300;600&display=swap');
+@import "tailwindcss";
+
+:root {
+    --neon-green: #B6FF00;
+    --dark-bg: #0a0a0a;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: var(--dark-bg);
+    color: white;
+    overflow-x: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    cursor: none;
+}
