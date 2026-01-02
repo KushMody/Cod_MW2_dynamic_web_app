@@ -17,7 +17,6 @@ A high-fidelity, visually immersive landing page replica for **Call of Duty: Mod
   - Horizontal scroll carousel for content discovery.
   - Reveal animations for features and game editions.
 - **Interactive UI**: Custom themed cursor and hover effects.
-- **Responsive Design**: Fully optimized for various screen sizes.
 
 ## 🛠️ Setup & Installation
 
